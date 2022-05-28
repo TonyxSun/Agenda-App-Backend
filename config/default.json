@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://admin:1234@agenda.mzsrgep.mongodb.net/?retryWrites=true&w=majority"
+  }
